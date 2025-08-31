@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credentials / secrets
+auth/
+youtube_api.json
+.env
+.env.*
+
+# Data & outputs
+data/
+logs/
+media_popularity/
+**/*.xlsx
+**/*.csv

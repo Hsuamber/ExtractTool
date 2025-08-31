@@ -1,0 +1,12 @@
+# --- core runtime ---
+requests==2.32.3
+pandas==2.3.1
+numpy==2.3.2
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
+pytz==2024.2
+beautifulsoup4==4.13.4
+opencc-python-reimplemented==0.1.7
+
+# --- YouTube API (若程式有用就保留；沒有可刪) ---
+google-api-python-client>=2.130.0
