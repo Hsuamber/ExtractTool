@@ -20,5 +20,11 @@ youtube_api.json
 data/
 logs/
 media_popularity/
-**/*.xlsx
-**/*.csv
+
+/outputs/
+/logs/
+/auth/
+youtube_api.json
+*.pyproj
+.vs/
+.vscode/
